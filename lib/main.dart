@@ -1,4 +1,5 @@
-import 'package:android_studio/login_screen.dart';
+import 'package:android_studio/screens/login_screen.dart';
+import 'package:android_studio/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:android_studio/pallete.dart';
 
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       title: 'My Login Page',
       theme: ThemeData.dark().copyWith(
           scaffoldBackgroundColor: Pallete.pageColor),
-      home: const LoginScreen(),
+      home: const SplashScreen(),
     );
   }
 }

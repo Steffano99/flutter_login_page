@@ -1,6 +1,6 @@
 # android_studio
 
-A new Flutter project of a modern UI LOGIN PAGE built with dart with flutter framework.
+-A NEW FLUTTER PROJECT OF A modern UI SPLASH SCREEN, ONBOARDING SCREEN AND LOGIN PAGE BUILT WITH DART WITH FLUTTER FRAMEWORK.
 
 
 ## Getting Started
